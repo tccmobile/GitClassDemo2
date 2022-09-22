@@ -1,3 +1,7 @@
+// Git Demo
+// will smith
+// sept 22
+
 #include <iostream>
 #include <iomanip>
 #include <cmath>
